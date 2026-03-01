@@ -2,6 +2,22 @@
 
 <br> <br>
 
+**Installation**
+
+<br>
+
+```cmd
+> git clone https://github.com/nextentitygames/patternstack.git
+
+> cd patternstack
+
+> pip install requirements
+
+> python main.py
+```
+
+<br> <br>
+
 Match the current stack by collecting shapes and avoiding obstacles.
 
 Collect powerups to help you along the way. Should you use them to help get you out of a bind, or save them to try and get a better score?
