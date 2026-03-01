@@ -3,8 +3,8 @@
 <br> <br>
 
 <h3>
-<u>Installation</u>
-
+Installation
+<br>
 <br>
 
 ```cmd
