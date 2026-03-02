@@ -3,9 +3,10 @@
 <br> <br>
 
 <h3>
-Installation
-<br>
-<br>
+  
+Installation (from command line)
+  
+<br> <br>
 
 ```cmd
 > git clone https://github.com/nextentitygames/patternstack.git
@@ -13,7 +14,15 @@ Installation
 > cd patternstack
 
 > pip install requirements
+```
 
+<br> <br>
+
+Run the Game
+
+<br> <br>
+
+```cmd
 > python main.py
 ```
 
@@ -26,6 +35,7 @@ Collect powerups to help you along the way. Should you use them to help get you 
 Includes 3 levels with a detailed points system, in-game radio and multiple UI skins. 
 
 <br> <br>
+
 *See in-game tutorial for gameplay tips.*
 
 <br> <br>
