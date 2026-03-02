@@ -1,4 +1,4 @@
-# Pattern Stack
+# Pattern Stack (PC)
 
 <br> <br>
 
@@ -25,6 +25,7 @@ Collect powerups to help you along the way. Should you use them to help get you 
 
 Includes 3 levels with a detailed points system, in-game radio and multiple UI skins. 
 
+*See in-game tutorial for gameplay tips.*
 
 <br> <br>
 
