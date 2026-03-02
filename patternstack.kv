@@ -1,0 +1,54 @@
+#:kivy 1.0.9
+#:import hex kivy.utils.get_color_from_hex
+#:import Window kivy.core.window.Window
+
+
+
+
+<Shape>:
+    size: 50, 50
+    gettext: self.get_text(1)
+    setcolor: (0, 0, 0, 1)
+    sprite: sprite
+    setsource: ""
+    sprite_label: sprite_label
+    size_hint: None, None
+
+
+
+    AsyncImage:
+        id: sprite
+        anim_delay: 1/30
+        size_hint: None, None
+        pos: root.x - 43, root.y - 40
+        size: root.size
+        opacity: 0
+        allow_stretch: True
+        keep_ratio: False
+
+
+
+    Label:
+        id: sprite_label
+        pos: root.x, root.y
+        font_size: 40
+        size: root.size
+        color: 1, 1, 1, 1
+        bold: True
+        opacity: 1
+        size_hint: None, None
+        text_size: self.size
+        halign: 'center'
+        valign: 'middle'
+        allow_strech: True
+        keep_ratio: False
+
+
+
+
+<PatternStack>:  
+    canvas:
+        Color:
+            rgba: hex('#0a1590')
+        Rectangle:
+            size: self.width, self.height
