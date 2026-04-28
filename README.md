@@ -22,7 +22,9 @@ If Python is installed, skip this step.
 ```
 
 <br>
+
 2.
+
 ```cmd
 > git clone https://github.com/nextentitygames/patternstack.git
 
