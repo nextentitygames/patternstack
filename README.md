@@ -8,7 +8,9 @@ Installation (from command line)
 
 <br> <br>
 
-1. *If Python is installed, skip this step.*
+1. 
+   
+(*If Python is installed, skip this step.*)
    
 ```cmd
 > winget install Python.Python.3.12
