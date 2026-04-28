@@ -2,10 +2,12 @@
 
 <br> <br>
 
+<h3>Installation (from command line)</h3>
+
+<h5>*Not guaranteed to work on Mac or Linux.*</h5>
+
 <h3>
   
-Installation (from command line)
-
 <br> <br>
 
 ```cmd
