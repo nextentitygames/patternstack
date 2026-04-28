@@ -10,7 +10,7 @@ Installation (from command line)
 
 ```cmd
 > winget install Python.Python.3.12
-(*If Python 3.12 is already installed, skip this step.*)
+(If Python 3.12 is already installed, skip this step.)
 
 > git clone https://github.com/nextentitygames/patternstack.git
 
