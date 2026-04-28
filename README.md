@@ -5,8 +5,18 @@
 <h3>
   
 Installation (from command line)
-  
+
+*Python 3.12 is required.*
+
+If Python is installed, skip this step.
+
 <br> <br>
+
+```cmd
+> winget install Python.Python.3.12
+```
+
+<br>
 
 ```cmd
 > git clone https://github.com/nextentitygames/patternstack.git
