@@ -6,11 +6,15 @@
   
 Installation (from command line)
 
+<br> <br>
+
 *Python 3.12 is required.*
+
+<br>
 
 If Python is installed, skip this step.
 
-<br> <br>
+<br> 
 
 ```cmd
 > winget install Python.Python.3.12
