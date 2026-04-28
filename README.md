@@ -16,12 +16,13 @@ If Python is installed, skip this step.
 
 <br> 
 
+1.
 ```cmd
 > winget install Python.Python.3.12
 ```
 
 <br>
-
+2.
 ```cmd
 > git clone https://github.com/nextentitygames/patternstack.git
 
